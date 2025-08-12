@@ -1,9 +1,7 @@
 # Hi there, I'm Vatsal Goil 👋
 
-💻 **Cybersecurity Enthusiast | Web Developer | Aspiring IAS Officer**  
+💻 **Cybersecurity Enthusiast | Web Developer   
 🔐 Passionate about building **secure, scalable, and creative** digital solutions.  
-🎨 Artist • ✈️ Traveler • ♟ Chess, 🏸 Badminton, 🏀 Basketball enthusiast  
-
 ---
 
 ## 🚀 Skills & Tools
