@@ -210,15 +210,15 @@ const vatsal = {
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <br/><br/>
 
-<a href="https://github.com/ShivGupta12234" target="_blank" rel="noopener noreferrer">
-  <img src="https://streak-stats.demolab.com?user=ShivGupta12234&theme=dark&background=0d1117&border=00d4ff&stroke=00d4ff30&ring=7928ca&fire=ff6b35&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=8b949e&excludeDaysLabel=8b949e" width="65%" alt="GitHub Streak"/>
+<a href="https://github.com/Vatsal12goil" target="_blank" rel="noopener noreferrer">
+  <img src="https://streak-stats.demolab.com?user=Vatsal12goil&theme=dark&background=0d1117&border=00d4ff&stroke=00d4ff30&ring=7928ca&fire=ff6b35&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=8b949e&excludeDaysLabel=8b949e" width="65%" alt="GitHub Streak"/>
 </a>
 </div>
 
 <br/><br/>
 
-<a href="https://github.com/ShivGupta12234" target="_blank" rel="noopener noreferrer">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivGupta12234&theme=react-dark&bg_color=0d1117&color=00d4ff&line=7928ca&point=ff6b35&area=true&area_color=00d4ff20&hide_border=false&border_color=00d4ff30" width="98%" alt="Activity Graph"/>
+<a href="https://github.com/Vatsal12goil" target="_blank" rel="noopener noreferrer">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vatsal12goil&theme=react-dark&bg_color=0d1117&color=00d4ff&line=7928ca&point=ff6b35&area=true&area_color=00d4ff20&hide_border=false&border_color=00d4ff30" width="98%" alt="Activity Graph"/>
 </a>
 
 </div>
