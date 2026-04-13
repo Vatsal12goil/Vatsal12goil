@@ -1,7 +1,7 @@
 # Hi there, I'm Vatsal Goil 👋
 
 💻 **Cybersecurity Enthusiast | Web Developer   
-🔐 Passionate about building **secure, scalable, and creative** digital solutions.  
+🔐 Passionate about building **secure, scalable, and creative** digital solutions. 
 ---
 
 ## 🚀 Skills & Tools
