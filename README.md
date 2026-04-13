@@ -3,42 +3,42 @@
 
 
 
-<a href="https://mydataapplied.vercel.app/" target="_blank" rel="noopener noreferrer">
+<a href="https://goil-portfolio-craft.vercel.app//" target="_blank" rel="noopener noreferrer">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=4000&pause=1600&color=00D4FF&background=00000000&center=true&vCenter=true&repeat=true&width=780&lines=Hey+there!+%F0%9F%91%8B+Welcome+to+my+GitHub!;Full-Stack+Developer+%7C+Data+Analyst;Building+Scalable+Web+Apps+%26+Data+Pipelines;React+%E2%80%A2+Node.js+%E2%80%A2+Python+%E2%80%A2+PostgreSQL;Turning+Raw+Data+into+Powerful+Decisions+%F0%9F%9A%80;Let%27s+build+something+extraordinary+together!" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
 <!-- PROFILE VIEWS + FOLLOWERS -->
-<a href="https://github.com/ShivGupta12234" target="_blank" rel="noopener noreferrer">
-  <img src="https://komarev.com/ghpvc/?username=ShivGupta12234&style=for-the-badge&color=00d4ff&labelColor=0d1117&label=PROFILE+VIEWS" alt="profile views"/>
+<a href="https://github.com/Vatsal12goil" target="_blank" rel="noopener noreferrer">
+  <img src="https://komarev.com/ghpvc/?username=Vatsal12goil&style=for-the-badge&color=00d4ff&labelColor=0d1117&label=PROFILE+VIEWS" alt="profile views"/>
 </a>
 &nbsp;
-<a href="https://github.com/ShivGupta12234?tab=followers" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/github/followers/ShivGupta12234?style=for-the-badge&color=7928ca&labelColor=0d1117&logo=github&label=FOLLOWERS" alt="followers"/>
+<a href="https://github.com/Vatsal12goil?tab=followers" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/github/followers/Vatsal12goil?style=for-the-badge&color=7928ca&labelColor=0d1117&logo=github&label=FOLLOWERS" alt="followers"/>
 </a>
 
 <br/><br/>
 
 
 
-<a href="https://www.linkedin.com/in/prakash-gupta-shiv/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/vatsal-goil-0ab077283/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
-<a href="https://leetcode.com/u/shivpgupta001/" target="_blank" rel="noopener noreferrer">
+<a href="https://leetcode.com/u/Vatsal_Goil/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
 &nbsp;
-<a href="https://mydataapplied.vercel.app/" target="_blank" rel="noopener noreferrer">
+<a href="https://https://goil-portfolio-craft.vercel.app/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Portfolio-FF4C8B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 &nbsp;
-<a href="https://github.com/ShivGupta12234" target="_blank" rel="noopener noreferrer">
+<a href="https://github.com/Vatsal12goil" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 &nbsp;
-<a href="mailto:prakashguptashiv911@gmail.com" target="_blank" rel="noopener noreferrer">
+<a href="mailto:2k22.cscys2211389@gmail.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
@@ -50,23 +50,22 @@
 
 
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
 ```typescript
-const shiv = {
-  name        : "Shiv Prakash Gupta",
-  roles       : ["Full-Stack Developer", "Data Analyst"],
-  education   : "B.Tech CSE (Data Science) - PSIT Kanpur  |  2022–2026",
-  location    : "Kanpur, India 🇮🇳",
-  email       : "prakashguptashiv911@gmail.com",
-  phone       : "+91 830 373 1077",
-  portfolio   : "https://mydataapplied.vercel.app/",
-  currently   : "Building CodeZynk - a real-time collaborative code editor",
-  learning    : "System Design, Microservices & Role Based Access",
-  openTo      : ["Full-Stack Roles", "Software Engineer Roles", "Software Developer Roles", "Data Analyst Roles", "DevOps Related Roles", "Freelance Projects"],
-  funFact     : "I solve LeetCode problems for fun - 170+ solved, 85% acceptance 🔥",
-  philosophy  : "I don't just write code - I architect solutions.",
-               // "I don't just analyse data - I tell its story."
+const vatsal = {
+  name        : "Vatsal Goil",
+  roles       : ["Full-Stack Developer", "Cybersecurity Enthusiast"],
+  education   : "B.Tech CSE - PSIT Kanpur  |  2022–2026",
+  location    : "India 🇮🇳",
+  email       : "2k22.cscys2211389@gmail.com",
+  phone       : "+91 9628979410",
+  portfolio   : "https://goil-portfolio-craft.vercel.app/",
+  currently   : "Building full-stack & cybersecurity projects",
+  learning    : "Cybersecurity, System Design & Advanced Development",
+  openTo      : ["Full-Stack Roles", "Software Engineer Roles", "Cybersecurity Roles", "Freelance Projects"],
+  funFact     : "I solve DSA problems and build real-world projects 🚀",
+  philosophy  : "I build solutions that combine logic, security, and real-world impact."
 };
 ```
 
