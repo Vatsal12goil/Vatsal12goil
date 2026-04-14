@@ -265,29 +265,33 @@ const vatsal = {
 
 <div align="center">
 
-<a href="https://github.com/ShivGupta12234/CodeZynk.ai">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShivGupta12234&repo=CodeZynk.ai&theme=github_dark&border_color=00d4ff&title_color=00d4ff&icon_color=7928ca&text_color=c9d1d9&bg_color=0d1117" />
+<a href="https://github.com/Vatsal12goil/Pizza-website">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vatsal12goil&repo=Pizza-website&theme=github_dark&border_color=00d4ff&title_color=00d4ff&icon_color=7928ca&text_color=c9d1d9&bg_color=0d1117" />
 </a>
 &nbsp;
 
-<a href="https://github.com/ShivGupta12234/ai-health-prediction-application">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShivGupta12234&repo=ai-health-prediction-application&theme=github_dark&border_color=7928ca&title_color=7928ca&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117" />
+<a href="https://github.com/Vatsal12goil/ResQ-App">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vatsal12goil&repo=ResQ-App&theme=github_dark&border_color=7928ca&title_color=7928ca&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117" />
 </a>
 &nbsp;
 
-<a href="https://github.com/ShivGupta12234/mydataapplied">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShivGupta12234&repo=mydataapplied&theme=github_dark&border_color=00d4ff&title_color=00d4ff&icon_color=7928ca&text_color=c9d1d9&bg_color=0d1117" />
+<a href="https://github.com/Vatsal12goil/Fake-News-Detection-Model-ML-">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vatsal12goil&repo=Fake-News-Detection-Model-ML-&theme=github_dark&border_color=00d4ff&title_color=00d4ff&icon_color=7928ca&text_color=c9d1d9&bg_color=0d1117" />
 </a>
 &nbsp;
 
-<a href="https://github.com/ShivGupta12234/expressBookReviews">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShivGupta12234&repo=expressBookReviews&theme=github_dark&border_color=7928ca&title_color=7928ca&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117" />
+<a href="https://github.com/Vatsal12goil/TTM2">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vatsal12goil&repo=TTM2&theme=github_dark&border_color=7928ca&title_color=7928ca&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117" />
+</a>
+&nbsp;
+
+<a href="https://github.com/Vatsal12goil/goil-portfolio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vatsal12goil&repo=goil-portfolio&theme=github_dark&border_color=00d4ff&title_color=00d4ff&icon_color=7928ca&text_color=c9d1d9&bg_color=0d1117" />
 </a>
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 
 
 ## 🌐 Let's Connect
