@@ -108,101 +108,83 @@ const vatsal = {
       <th>◈ Frontend</th>
       <th>◈ Backend</th>
       <th>◈ Databases</th>
-      <th>◈ DevOps & Tools</th>
+      <th>◈ Tools</th>
     </tr>
 
   <tr>
       
   <td align="center">
-        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"><br>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><br>
+        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"><br>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"><br>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"><br>
         <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
       </td>
+
   <td align="center">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"><br>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"><br>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><br>
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><br>
-        <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"><br>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><br>
         <img src="https://img.shields.io/badge/Responsive_Design-00d4ff?style=for-the-badge&logo=css3&logoColor=white">
       </td>
+
   <td align="center">
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"><br>
         <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"><br>
         <img src="https://img.shields.io/badge/REST_API-FF6B35?style=for-the-badge&logo=fastapi&logoColor=white"><br>
-        <img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"><br>
-        <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white"><br>
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+        <img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white">
       </td>
-
 
   <td align="center">
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"><br>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"><br>
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
       </td>
+
   <td align="center">
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"><br>
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"><br>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"><br>
-        <img src="https://img.shields.io/badge/CI/CD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=00d4ff"><br>
-        <img src="https://img.shields.io/badge/Microservices-7928ca?style=for-the-badge&logo=serverless&logoColor=white"><br>
-        <img src="https://img.shields.io/badge/AI_Integration-FF4C8B?style=for-the-badge&logo=openai&logoColor=white"><br>
-        <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
+        <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=linux&logoColor=white"><br>
+        <img src="https://img.shields.io/badge/Cybersecurity-FF4C8B?style=for-the-badge&logo=hackthebox&logoColor=white">
       </td>
-    </tr>
-
   </table>
 </div>
 
 ---
-### 📊 Analytics
-<div align="center">
-  <table>
-    <tr>
-      <th>◈ Core Languages</th>
-      <th>◈ Data Analysis</th>
-      <th>◈ Libraries</th>
-      <th>◈ Statistics & Analytics</th>
-      <th>◈ Tools</th>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"><br>
-        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"><br>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><br>
-        <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Data_Cleaning-00d4ff?style=for-the-badge&logo=databricks&logoColor=white"><br>
-        <img src="https://img.shields.io/badge/Data_Wrangling-7928ca?style=for-the-badge&logo=databricks&logoColor=white"><br>
-        <img src="https://img.shields.io/badge/EDA-FF6B35?style=for-the-badge&logo=chartdotjs&logoColor=white"><br>
-        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"><br>
-        <img src="https://img.shields.io/badge/SEO_Analysis-34A853?style=for-the-badge&logo=google&logoColor=white">
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"><br>
-        <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"><br>
-        <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"><br>
-        <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"><br>
-        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Statistical_Analysis-FF4C8B?style=for-the-badge&logo=scipy&logoColor=white"><br>
-        <img src="https://img.shields.io/badge/Regression_Analysis-00d4ff?style=for-the-badge&logo=chartdotjs&logoColor=white"><br>
-        <img src="https://img.shields.io/badge/ML_Modeling-7928ca?style=for-the-badge&logo=tensorflow&logoColor=white">
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"><br>
-        <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"><br>
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"><br>
-        <img src="https://img.shields.io/badge/Data_Visualization-FF6B35?style=for-the-badge&logo=tableau&logoColor=white">
-      </td>
-    </tr>
 
-  </table>
+### 📊 Analytics
+
+<div align="center">
+<table>
+<tr>
+<th>◈ Core Languages</th>
+<th>◈ Data Analysis</th>
+<th>◈ Libraries</th>
+<th>◈ Tools</th>
+</tr>
+
+<tr>
+  <td align="center">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"><br>
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  </td>
+
+  <td align="center">
+    <img src="https://img.shields.io/badge/Data_Cleaning-00d4ff?style=for-the-badge"><br>
+    <img src="https://img.shields.io/badge/EDA-FF6B35?style=for-the-badge"><br>
+    <img src="https://img.shields.io/badge/Basic_ML-7928ca?style=for-the-badge">
+  </td>
+
+  <td align="center">
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"><br>
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+  </td>
+
+  <td align="center">
+    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"><br>
+    <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white">
+  </td>
+</tr>
+
+</table>
 </div>
 
 <div align="center">
