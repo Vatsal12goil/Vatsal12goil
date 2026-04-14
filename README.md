@@ -312,24 +312,24 @@ const vatsal = {
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/prakash-gupta-shiv/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/vatsal-goil-0ab077283/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="38"/>
 </a>
 &nbsp;
-<a href="https://leetcode.com/u/shivpgupta001/" target="_blank" rel="noopener noreferrer">
+<a href="https://leetcode.com/u/Vatsal_Goil/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" height="38"/>
 </a>
 &nbsp;
-<a href="https://mydataapplied.vercel.app/" target="_blank" rel="noopener noreferrer">
+<a href="https://goil-portfolio-craft.vercel.app/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Portfolio-FF4C8B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" height="38"/>
 </a>
 &nbsp;
-<a href="https://github.com/ShivGupta12234" target="_blank" rel="noopener noreferrer">
+<a href="https://github.com/Vatsal12goil" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="38"/>
 </a>
 &nbsp;
 
-<a href="mailto:prakashguptashiv911@gmail.com" target="_blank" rel="noopener noreferrer">
+<a href="mailto:2k22.cscys2211389@gmail.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="38"/>
 </a>
 
