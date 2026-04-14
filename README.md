@@ -265,33 +265,28 @@ const vatsal = {
 
 <div align="center">
 
-<a href="https://github.com/Vatsal12goil/Pizza-website">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vatsal12goil&repo=Pizza-website&theme=github_dark&border_color=00d4ff&title_color=00d4ff&icon_color=7928ca&text_color=c9d1d9&bg_color=0d1117" />
-</a>
-&nbsp;
+> Recruiter-focused picks: full-stack delivery, real-world impact, and applied AI/data work.
 
 <a href="https://github.com/Vatsal12goil/ResQ-App">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vatsal12goil&repo=ResQ-App&theme=github_dark&border_color=7928ca&title_color=7928ca&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vatsal12goil&repo=ResQ-App&theme=github_dark&border_color=00d4ff&title_color=00d4ff&icon_color=7928ca&text_color=c9d1d9&bg_color=0d1117" />
 </a>
-&nbsp;
-
-<a href="https://github.com/Vatsal12goil/Fake-News-Detection-Model-ML-">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vatsal12goil&repo=Fake-News-Detection-Model-ML-&theme=github_dark&border_color=00d4ff&title_color=00d4ff&icon_color=7928ca&text_color=c9d1d9&bg_color=0d1117" />
-</a>
-&nbsp;
-
-<a href="https://github.com/Vatsal12goil/TTM2">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vatsal12goil&repo=TTM2&theme=github_dark&border_color=7928ca&title_color=7928ca&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117" />
-</a>
-&nbsp;
-
 <a href="https://github.com/Vatsal12goil/goil-portfolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vatsal12goil&repo=goil-portfolio&theme=github_dark&border_color=00d4ff&title_color=00d4ff&icon_color=7928ca&text_color=c9d1d9&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vatsal12goil&repo=goil-portfolio&theme=github_dark&border_color=7928ca&title_color=7928ca&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117" />
+</a>
+<a href="https://github.com/Vatsal12goil/Fake-News-Detection-Model-ML-">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vatsal12goil&repo=Fake-News-Detection-Model-ML-&theme=github_dark&border_color=00d4ff&title_color=00d4ff&icon_color=7928ca&text_color=c9d1d9&bg_color=0d1117" />
+</a>
+<a href="https://github.com/Vatsal12goil/TTM2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vatsal12goil&repo=TTM2&theme=github_dark&border_color=7928ca&title_color=7928ca&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117" />
 </a>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+**Why these 4?**
+- **ResQ-App** → problem-solving + product thinking.
+- **goil-portfolio** → strong personal branding + UI execution.
+- **Fake-News-Detection-Model-ML-** → applied ML/data pipeline skills.
+- **TTM2** → analytical implementation and consistency in shipping projects.
 
 
 ## 🌐 Let's Connect
