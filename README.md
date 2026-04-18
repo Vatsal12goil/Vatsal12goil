@@ -335,9 +335,3 @@ const vatsal = {
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7928ca35,50:00d4ff18,100:0d1117&height=140&section=footer"/>
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Vatsal12goil&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Vatsal12goil&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Vatsal12goil&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
