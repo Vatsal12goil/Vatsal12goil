@@ -186,15 +186,18 @@ const vatsal = {
 
 </table>
 </div>
+<br>
+
 
 <div align="center">
   
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-<br/><br/>
+![](https://github-readme-stats.shion.dev/api?username=Vatsal12goil&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+<br/>
 
-<a href="https://github.com/Vatsal12goil" target="_blank" rel="noopener noreferrer">
-  <img src="https://streak-stats.demolab.com?user=Vatsal12goil&theme=dark&background=0d1117&border=00d4ff&stroke=00d4ff30&ring=7928ca&fire=ff6b35&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=8b949e&excludeDaysLabel=8b949e" width="65%" alt="GitHub Streak"/>
-</a>
+![](https://streak-stats.demolab.com/?user=Vatsal12goil&theme=radical&hide_border=false)<br><br>
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Vatsal12goil&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 </div>
 
 <br/><br/>
@@ -294,6 +297,12 @@ const vatsal = {
 - **TTM2** → analytical implementation and consistency in shipping projects.
 
 
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+
 ## 🌐 Let's Connect
 
 <div align="center">
@@ -326,3 +335,9 @@ const vatsal = {
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7928ca35,50:00d4ff18,100:0d1117&height=140&section=footer"/>
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Vatsal12goil&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Vatsal12goil&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Vatsal12goil&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
