@@ -270,16 +270,21 @@ const vatsal = {
 <a href="https://github.com/Vatsal12goil/ResQ-App">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vatsal12goil&repo=ResQ-App&theme=github_dark&border_color=00d4ff&title_color=00d4ff&icon_color=7928ca&text_color=c9d1d9&bg_color=0d1117" />
 </a>
-<a href="https://github.com/Vatsal12goil/goil-portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vatsal12goil&repo=goil-portfolio&theme=github_dark&border_color=7928ca&title_color=7928ca&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117" />
-</a>
-<a href="https://github.com/Vatsal12goil/Fake-News-Detection-Model-ML-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vatsal12goil&repo=Fake-News-Detection-Model-ML-&theme=github_dark&border_color=00d4ff&title_color=00d4ff&icon_color=7928ca&text_color=c9d1d9&bg_color=0d1117" />
-</a>
 <a href="https://github.com/Vatsal12goil/TTM2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vatsal12goil&repo=TTM2&theme=github_dark&border_color=7928ca&title_color=7928ca&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vatsal12goil&repo=ResQ-App&theme=github_dark&border_color=00d4ff&title_color=00d4ff&icon_color=7928ca&text_color=c9d1d9&bg_color=0d1117" />
 </a>
-
+<a href="https://github.com/Vatsal12goil/ResQ-App">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vatsal12goil&repo=ResQ-App&theme=github_dark&border_color=00d4ff&title_color=00d4ff&icon_color=7928ca&text_color=c9d1d9&bg_color=0d1117" />
+</a>
+<a href="https://github.com/Vatsal12goil/ResQ-App">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vatsal12goil&repo=ResQ-App&theme=github_dark&border_color=00d4ff&title_color=00d4ff&icon_color=7928ca&text_color=c9d1d9&bg_color=0d1117" />
+</a>
+<a href="https://github.com/Vatsal12goil/ResQ-App">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vatsal12goil&repo=ResQ-App&theme=github_dark&border_color=00d4ff&title_color=00d4ff&icon_color=7928ca&text_color=c9d1d9&bg_color=0d1117" />
+</a>
+<a href="https://github.com/Vatsal12goil/ResQ-App">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vatsal12goil&repo=ResQ-App&theme=github_dark&border_color=00d4ff&title_color=00d4ff&icon_color=7928ca&text_color=c9d1d9&bg_color=0d1117" />
+</a>
 </div>
 
 **Why these 4?**
