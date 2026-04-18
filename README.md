@@ -270,7 +270,7 @@ const vatsal = {
 <a href="https://github.com/Vatsal12goil/ResQ-App">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vatsal12goil&repo=ResQ-App&theme=github_dark&border_color=00d4ff&title_color=00d4ff&icon_color=7928ca&text_color=c9d1d9&bg_color=0d1117" />
 </a>
-<a href="https://github.com/Vatsal12goil/TTM2">
+<a href="https://github.com/Vatsal12goil/Credit-Card-Fraud-Detection-ML">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vatsal12goil&repo=ResQ-App&theme=github_dark&border_color=00d4ff&title_color=00d4ff&icon_color=7928ca&text_color=c9d1d9&bg_color=0d1117" />
 </a>
 <a href="https://github.com/Vatsal12goil/ResQ-App">
