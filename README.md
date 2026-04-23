@@ -1,7 +1,7 @@
 <div align="center">
 
 <div align="center">
-  <img src="https://github.com/Vatsal12goil/Vatsal12goil/blob/main/gg.gif" width="300" height="190" alt="Data Scientist GIF"/>
+  <img src="https://github.com/Vatsal12goil/Vatsal12goil/blob/main/gg.gif" width="100%" height="10%" alt="Data Scientist GIF"/>
 </div>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:001a2e,60:00d4ff18,100:7928ca35&height=260&section=header&text=Vatsal%20Goil&fontSize=58&fontColor=00d4ff&animation=fadeIn&fontAlignY=42&desc=Full-Stack%20Developer%20%E2%9C%A6%20Data%20Analyst&descAlignY=60&descSize=20&descColor=c9d1d9"/>
 
