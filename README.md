@@ -81,11 +81,11 @@ const vatsal = {
 
 <div align="center">
 
-<a href="./shiv_prakash_gupta_resume.pdf" target="_blank" rel="noopener noreferrer">
+<a href="" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/%F0%9F%92%BB%20Developer%20Resume-View%20%2F%20Download-00d4ff?style=for-the-badge&labelColor=0d1117" height="42" alt="Developer Resume"/>
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="./shiv_prakash_gupta_CV.pdf" target="_blank" rel="noopener noreferrer">
+<a href="" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/%F0%9F%93%8A%20Analyst%20Resume-View%20%2F%20Download-7928ca?style=for-the-badge&labelColor=0d1117" height="42" alt="Analyst Resume"/>
 </a>
 
