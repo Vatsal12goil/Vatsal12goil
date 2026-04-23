@@ -1,14 +1,16 @@
 <div align="center">
 
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:001a2e,60:00d4ff18,100:7928ca35&height=260&section=header&text=Vatsal%20Goil&fontSize=58&fontColor=00d4ff&animation=fadeIn&fontAlignY=42&desc=Software-Developer%20%E2%9C%A6%20Full-Stack%20Developer%20%E2%9C%A6%20Data%20Analyst&descAlignY=60&descSize=20&descColor=c9d1d9"/>
 <div align="center">
-  <img src="https://github.com/Vatsal12goil/Vatsal12goil/blob/main/gg.gif" width="100%" height="10%" alt="Data Scientist GIF"/>
+  <img src="https://github.com/Vatsal12goil/Vatsal12goil/blob/main/gg.gif" width="80%" height="20%" alt="Data Scientist GIF"/>
 </div>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:001a2e,60:00d4ff18,100:7928ca35&height=260&section=header&text=Vatsal%20Goil&fontSize=58&fontColor=00d4ff&animation=fadeIn&fontAlignY=42&desc=Full-Stack%20Developer%20%E2%9C%A6%20Data%20Analyst&descAlignY=60&descSize=20&descColor=c9d1d9"/>
+
 
 
 
 <a href="https://goil-portfolio-craft.vercel.app//" target="_blank" rel="noopener noreferrer">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=4000&pause=1600&color=00D4FF&background=00000000&center=true&vCenter=true&repeat=true&width=780&lines=Hey+there!+%F0%9F%91%8B+Welcome+to+my+GitHub!;Full-Stack+Developer+%7C+Data+Analyst;Building+Scalable+Web+Apps+%26+Data+Pipelines;React+%E2%80%A2+Node.js+%E2%80%A2+Python+%E2%80%A2+PostgreSQL;Turning+Raw+Data+into+Powerful+Decisions+%F0%9F%9A%80;Let%27s+build+something+extraordinary+together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=4000&pause=1600&color=00D4FF&background=00000000&center=true&vCenter=true&repeat=true&width=780&lines=Hey+there!+%F0%9F%91%8B+Welcome+to+my+GitHub!;Building+Scalable+Web+Apps+%26+Data+Pipelines;React+%E2%80%A2+Node.js+%E2%80%A2+Python+%E2%80%A2+PostgreSQL;Turning+Raw+Data+into+Powerful+Decisions+%F0%9F%9A%80;Let%27s+build+something+extraordinary+together!" alt="Typing SVG" />
 </a>
 
 <br/><br/>
