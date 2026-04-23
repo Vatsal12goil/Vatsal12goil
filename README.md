@@ -81,12 +81,12 @@ const vatsal = {
 
 <div align="center">
 
-<a href="" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/%F0%9F%92%BB%20Developer%20Resume-View%20%2F%20Download-00d4ff?style=for-the-badge&labelColor=0d1117" height="42" alt="Developer Resume"/>
+<a href="https://drive.google.com/file/d/1njXqY7-688ksE4l5T9NTzBLwkUjneh3d/view?usp=drivesdk" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/%F0%9F%92%BB%20Software%20Developer-View%20%2F%20Download-00d4ff?style=for-the-badge&labelColor=0d1117" height="42" alt="Developer Resume"/>
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/%F0%9F%93%8A%20Analyst%20Resume-View%20%2F%20Download-7928ca?style=for-the-badge&labelColor=0d1117" height="42" alt="Analyst Resume"/>
+<a href="https://drive.google.com/file/d/1qI1f_5j9wlnB4yUPS22giOCji7JxopEU/view?usp=drivesdk" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/%F0%9F%93%8A%20Data%20Analyst-View%20%2F%20Download-7928ca?style=for-the-badge&labelColor=0d1117" height="42" alt="Analyst Resume"/>
 </a>
 
 </div>
